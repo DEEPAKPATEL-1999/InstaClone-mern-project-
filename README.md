@@ -1,6 +1,6 @@
 # InstaClone-mern-project-
 
-Instagram Clone (Both frontend and backend) created with Flutter and Firebase.
+Instagram Clone (Both frontend and backend) created React
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mohak1283)
 
